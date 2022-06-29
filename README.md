@@ -1,6 +1,6 @@
 # Tin-Dog
 # Create a tin Dog website
-using 
+### using 
 Bootstrap
 learn Bootstrap Grid layout
 Adding Grid Layout
