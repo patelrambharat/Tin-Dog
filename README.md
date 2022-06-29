@@ -1,5 +1,5 @@
 # Tin-Dog
-#Create a tin Dog website
+# Create a tin Dog website
 using 
 Bootstrap
 learn Bootstrap Grid layout
